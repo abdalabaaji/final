@@ -2,12 +2,12 @@
     "orders": [
         {
             "id": 1,
-            "customerName": "John Doe",
+            "customerName": "Ahmed Ali",
             "orderDate": "2024-12-02"
         },
         {
             "id": 2,
-            "customerName": "Jane Smith",
+            "customerName": "Fatima Hassan",
             "orderDate": "2024-12-02"
         }
     ],
