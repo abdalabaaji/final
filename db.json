@@ -48,7 +48,7 @@
             "country": "USA",
             "activeUsers": 223000000,
             "monthlyCost": 15,
-            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg"
+            "logoUrl": "https://loodibee.com/wp-content/uploads/Netflix-N-Symbol-logo.png"
         },
         {
             "id": 2,
@@ -56,7 +56,7 @@
             "country": "USA",
             "activeUsers": 150000000,
             "monthlyCost": 10,
-            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Disney%2B_logo.svg"
+            "logoUrl": "https://lumiere-a.akamaihd.net/v1/images/a8e5567d1658de062d95d079ebf536b0_4096x2309_6dedcc02.png?region=0%2C3%2C4096%2C2304"
         },
         {
             "id": 3,
@@ -64,7 +64,7 @@
             "country": "USA",
             "activeUsers": 200000000,
             "monthlyCost": 12,
-            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Prime_Video.png"
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Prime_logo.png"
         }
     ],
     "movies": [
