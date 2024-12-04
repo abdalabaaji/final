@@ -40,5 +40,93 @@
             "quantity": 1,
             "price": 14.25
         }
+    ],
+    "platforms": [
+        {
+            "id": 1,
+            "name": "Netflix",
+            "country": "USA",
+            "activeUsers": 223000000,
+            "monthlyCost": 15,
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg"
+        },
+        {
+            "id": 2,
+            "name": "Disney+",
+            "country": "USA",
+            "activeUsers": 150000000,
+            "monthlyCost": 10,
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Disney%2B_logo.svg"
+        },
+        {
+            "id": 3,
+            "name": "Amazon Prime",
+            "country": "USA",
+            "activeUsers": 200000000,
+            "monthlyCost": 12,
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Prime_Video.png"
+        }
+    ],
+    "movies": [
+        {
+            "id": 1,
+            "title": "Inception",
+            "director": "Christopher Nolan",
+            "releaseYear": "2010-07-16",
+            "rating": 9,
+            "duration": 148,
+            "platformId": 1,
+            "posterUrl": "https://upload.wikimedia.org/wikipedia/en/7/7f/Inception_ver3.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Avengers: Endgame",
+            "director": "Anthony and Joe Russo",
+            "releaseYear": "2019-04-26",
+            "rating": 8,
+            "duration": 181,
+            "platformId": 2,
+            "posterUrl": "https://upload.wikimedia.org/wikipedia/en/0/0d/Avengers_Endgame_poster.jpg"
+        },
+        {
+            "id": 3,
+            "title": "The Boys",
+            "director": "Eric Kripke",
+            "releaseYear": "2019-07-26",
+            "rating": 8,
+            "duration": 60,
+            "platformId": 3,
+            "posterUrl": "https://upload.wikimedia.org/wikipedia/en/3/3d/The_Boys_Season_2.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Stranger Things",
+            "director": "The Duffer Brothers",
+            "releaseYear": "2016-07-15",
+            "rating": 9,
+            "duration": 50,
+            "platformId": 1,
+            "posterUrl": "https://upload.wikimedia.org/wikipedia/en/3/38/Stranger_Things_season_4.jpg"
+        },
+        {
+            "id": 5,
+            "title": "The Mandalorian",
+            "director": "Jon Favreau",
+            "releaseYear": "2019-11-12",
+            "rating": 9,
+            "duration": 35,
+            "platformId": 2,
+            "posterUrl": "https://upload.wikimedia.org/wikipedia/en/1/10/The_Mandalorian_season_2_poster.jpg"
+        },
+        {
+            "id": 6,
+            "title": "The Tomorrow War",
+            "director": "Chris McKay",
+            "releaseYear": "2021-07-02",
+            "rating": 7,
+            "duration": 138,
+            "platformId": 3,
+            "posterUrl": "https://upload.wikimedia.org/wikipedia/en/9/9f/The_Tomorrow_War_poster.png"
+        }
     ]
 }
